@@ -3,7 +3,7 @@
 This program was created in **Snap!**, a block-based programming language developed at UC Berkeley.
 
 ### Link to program: 
-https://snap.berkeley.edu/snap/snap.html#present:Username=abigail%20d%2e&ProjectName=Cipher&editMode&noRun
+https://snap.berkeley.edu/embed?projectname=Cipher&username=abigail%20d%2e&showTitle=true&showAuthor=true&editButton=true&pauseButton=true
 
 ---
 
