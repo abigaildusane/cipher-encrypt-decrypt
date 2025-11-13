@@ -1,4 +1,4 @@
-# Cipher (Snap Program)
+# Cipher (Snap! Program)
 
 This program was created in **Snap!**, a block-based programming language developed at UC Berkeley.
 
